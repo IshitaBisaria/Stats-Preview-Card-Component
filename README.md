@@ -21,5 +21,5 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/IshitaBisaria/Stats-Preview-Card-Component)
-- Live Site URL: [Add live site URL here](https://ishitabisaria.github.io/Stats-Preview-Card-Component/)
+- Solution URL: https://github.com/IshitaBisaria/Stats-Preview-Card-Component
+- Live Site URL: https://ishitabisaria.github.io/Stats-Preview-Card-Component/
